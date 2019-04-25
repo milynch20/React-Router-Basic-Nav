@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Home, About, Contact, Navigation } from './components';
-//Initial
+//Initial 
 
 const App = () => (
   <div>
